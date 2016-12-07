@@ -4,8 +4,8 @@
 #Scientific-Data-Management
 -------------
 
-> include/ all head file in scidb-15.7
-> src/	   all source file in scidb-15.7
+> File "include/" all head file in scidb-15.7
+File "src/"	 all source file in scidb-15.7
 
 ####TODO:  
 
